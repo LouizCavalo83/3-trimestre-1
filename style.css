@@ -7,11 +7,11 @@ h2 {margin-left: 34%;
 }
 #imal{margin-left: 34%;
     width: 30%; ;
-    border-style: groove; border-color: aliceblue;
+    border-style: groove; border-color: rgb(0, 136, 255);
 }
 #imal2{margin-left: 34%;
     width: 30%;
-    border-style: groove; border-color: aliceblue;
+    border-style: groove; border-color: rgb(0, 136, 255);
 }
 h3 {margin-left: 34%;
     color: aliceblue;
@@ -23,7 +23,7 @@ h4 {color: aliceblue;
 }
 #imal3{width: 30%;
     margin-left:34%;
-    border-style: groove; border-color: aliceblue;
+    border-style: groove; border-color: rgb(0, 136, 255);
 }
 .D{
     text-align: left;
